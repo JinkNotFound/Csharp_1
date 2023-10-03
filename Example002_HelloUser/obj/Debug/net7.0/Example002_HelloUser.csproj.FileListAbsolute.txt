@@ -1,0 +1,14 @@
+C:\GB\Csharp1\Example002_HelloUser\obj\Debug\net7.0\Example002_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\GB\Csharp1\Example002_HelloUser\obj\Debug\net7.0\Example002_HelloUser.AssemblyInfoInputs.cache
+C:\GB\Csharp1\Example002_HelloUser\obj\Debug\net7.0\Example002_HelloUser.AssemblyInfo.cs
+C:\GB\Csharp1\Example002_HelloUser\obj\Debug\net7.0\Example002_HelloUser.csproj.CoreCompileInputs.cache
+C:\GB\Csharp1\Example002_HelloUser\bin\Debug\net7.0\Example002_HelloUser.exe
+C:\GB\Csharp1\Example002_HelloUser\bin\Debug\net7.0\Example002_HelloUser.deps.json
+C:\GB\Csharp1\Example002_HelloUser\bin\Debug\net7.0\Example002_HelloUser.runtimeconfig.json
+C:\GB\Csharp1\Example002_HelloUser\bin\Debug\net7.0\Example002_HelloUser.dll
+C:\GB\Csharp1\Example002_HelloUser\bin\Debug\net7.0\Example002_HelloUser.pdb
+C:\GB\Csharp1\Example002_HelloUser\obj\Debug\net7.0\Example002_HelloUser.dll
+C:\GB\Csharp1\Example002_HelloUser\obj\Debug\net7.0\refint\Example002_HelloUser.dll
+C:\GB\Csharp1\Example002_HelloUser\obj\Debug\net7.0\Example002_HelloUser.pdb
+C:\GB\Csharp1\Example002_HelloUser\obj\Debug\net7.0\Example002_HelloUser.genruntimeconfig.cache
+C:\GB\Csharp1\Example002_HelloUser\obj\Debug\net7.0\ref\Example002_HelloUser.dll
