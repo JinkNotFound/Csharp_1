@@ -1,0 +1,14 @@
+C:\GB\Csharp1\Example007_while\bin\Debug\net7.0\Example007_while.exe
+C:\GB\Csharp1\Example007_while\bin\Debug\net7.0\Example007_while.deps.json
+C:\GB\Csharp1\Example007_while\bin\Debug\net7.0\Example007_while.runtimeconfig.json
+C:\GB\Csharp1\Example007_while\bin\Debug\net7.0\Example007_while.dll
+C:\GB\Csharp1\Example007_while\bin\Debug\net7.0\Example007_while.pdb
+C:\GB\Csharp1\Example007_while\obj\Debug\net7.0\Example007_while.GeneratedMSBuildEditorConfig.editorconfig
+C:\GB\Csharp1\Example007_while\obj\Debug\net7.0\Example007_while.AssemblyInfoInputs.cache
+C:\GB\Csharp1\Example007_while\obj\Debug\net7.0\Example007_while.AssemblyInfo.cs
+C:\GB\Csharp1\Example007_while\obj\Debug\net7.0\Example007_while.csproj.CoreCompileInputs.cache
+C:\GB\Csharp1\Example007_while\obj\Debug\net7.0\Example007_while.dll
+C:\GB\Csharp1\Example007_while\obj\Debug\net7.0\refint\Example007_while.dll
+C:\GB\Csharp1\Example007_while\obj\Debug\net7.0\Example007_while.pdb
+C:\GB\Csharp1\Example007_while\obj\Debug\net7.0\Example007_while.genruntimeconfig.cache
+C:\GB\Csharp1\Example007_while\obj\Debug\net7.0\ref\Example007_while.dll
